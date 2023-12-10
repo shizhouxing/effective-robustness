@@ -1,0 +1,50 @@
+{
+  "title": "Effective Robustness against Natural Distribution Shifts for Models with Different Training Data",
+  "paper": "https://arxiv.org/abs/2302.01381",
+  "code": "https://github.com/shizhouxing/effective-robustness",
+  "contact": "z.shi [at] ucla.edu",
+  "authors": [
+    {
+      "name": "Zhouxing Shi",
+      "link": "https://shizhouxing.github.io",
+      "affiliation": 1
+    },
+    {
+      "name": "Nicholas Carlini",
+      "link": "https://nicholas.carlini.com",
+      "affiliation": 2
+    },
+    {
+      "name": "Ananth Balashankar",
+      "link": "https://ananthbalashankar.github.io/",
+      "affiliation": 2
+    },
+    {
+      "name": "Ludwig Schmidt",
+      "link": "https://people.csail.mit.edu/ludwigs/",
+      "affiliation": 3
+    },
+    {
+      "name": "Cho-Jui Hsieh",
+      "link": "https://web.cs.ucla.edu/~chohsieh",
+      "affiliation": "1,2"
+    },
+    {
+      "name": "Alex Beutel",
+      "link": "https://alexbeutel.com/",
+      "affiliation": 4
+    },
+    {
+      "name": "Yao Qin",
+      "link": "https://yaoqin1.github.io/",
+      "affiliation": "2,5"
+    }
+  ],
+  "affiliations": [
+    "UCLA",
+    "Google",
+    "University of Washington",
+    "OpenAI",
+    "UCSB"
+  ]
+}
